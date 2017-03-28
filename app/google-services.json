@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "12844456400",
+    "firebase_url": "https://shopowner-446f4.firebaseio.com",
+    "project_id": "shopowner-446f4",
+    "storage_bucket": "shopowner-446f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12844456400:android:dbaf46cd23392689",
+        "android_client_info": {
+          "package_name": "com.vvit.ammu.shopowner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12844456400-h462l4hdlrs9a5nmjcu95s3jdltijpa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOlTKy1vKXir_pJNZCuT0lL_Jrk_JB7Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShopOwner</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="textview">TextView</string>
+    <string name="register_shop_owner">Register Shop Owner</string>
+</resources>
